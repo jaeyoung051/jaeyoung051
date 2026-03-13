@@ -59,17 +59,64 @@ https://github.com/jaeyoung051/MobileRobotics-Portfolio
 
 ---
 
-### 🏠 ShareStay
+<details>
+<summary>🏠 ShareStay (룸 쉐어링 플랫폼)</summary>
 
-룸 쉐어링 플랫폼 팀 프로젝트  
+지도 기반으로 방을 탐색하고 예약할 수 있는 **공유 주거 플랫폼**
 
-Spring Boot + React 기반 웹 서비스
+**기간**  
+팀 프로젝트 (학원 프로젝트)
 
-주요 기능
-- OAuth2 로그인
-- JWT 인증
-- 찜 / 좋아요
+**역할**  
+Backend 중심 Full-stack
+
+---
+
+### 핵심 기능
+
+- 지도 기반 방 탐색 (카카오맵)
+- 방 상세 조회
+- 찜 / 좋아요 기능
 - 사용자 밴 로직
+- JWT 로그인
+- OAuth2 소셜 로그인
+- 예약 기능
+
+---
+
+### 기술 스택
+
+**Frontend**
+
+React / TypeScript / MUI
+
+**Backend**
+
+Spring Boot / Spring Security / JPA / JWT / OAuth2
+
+**Database**
+
+MariaDB
+
+**Infra**
+
+Docker / Nginx
+
+---
+
+### Troubleshooting
+
+- CORS 문제 해결
+- OAuth2 로그인 흐름 처리
+- JWT 인증 로직 구현
+- API 요청 흐름 안정화
+
+---
+
+🔗 Repository  
+https://github.com/RoomShareProject/sharestay
+
+</details>
 
 ---
 
