@@ -5,6 +5,9 @@
 🌱 Spring Boot 기반 REST API 설계와 백엔드 개발 경험을 쌓고 있습니다.<br>
 🔍 문제의 원인을 분석하고 해결하는 과정과 로직 설계를 좋아합니다.<br>
 🤖 모바일 로보틱스 대회 경험을 통해 문제 해결 능력을 키웠습니다.
+</p>
+
+<p>
 
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingom5437@naver.com)
 [![Velog](https://img.shields.io/badge/BLOG-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@seojaeyeong-051/series)
