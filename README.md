@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/jaeyoung051/jaeyoung051/blob/main/banner.png" width="100%">
+</p>
+
 <h1 align="center">Seo Jaeyoung!</h1>
 
 <p align="center">
