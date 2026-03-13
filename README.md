@@ -8,12 +8,17 @@ Backend Developer | Robotics Background
 
 ## 🚀 About Me
 
-- 🤖 Mobile Robotics Competition Silver Medalist
-- 💻 Backend Developer (Spring Boot)
-- 🔍 Interested in Robotics Software & Backend Systems
-- 📍 Korea
+👨‍💻 Spring Boot 기반 백엔드 개발을 중심으로 풀스택 개발을 공부하며 프로젝트를 진행하고 있습니다.
 
-I enjoy solving problems through logical thinking and improving system performance through iterative testing and optimization.
+🧩 REST API 설계, 인증/인가(JWT · OAuth2), DB 모델링을 통해 서비스 기능을 구현하는 과정에 흥미를 느낍니다.
+
+🐞 에러를 단순히 해결하는 것에서 끝내지 않고  
+재현 → 로그 분석 → 원인 파악 → 수정 → 기록(회고)까지 이어지는 문제 해결 과정을 중요하게 생각합니다.
+
+🤝 팀 프로젝트에서 branch / PR / merge 기반 협업을 경험했고  
+merge conflict 해결과 코드 통합 과정을 통해 협업 능력을 키웠습니다.
+
+🤖 과거 전국 기능경기대회 모바일 로보틱스 은메달 수상 경험이 있습니다.대회 경험을 통해 로직 설계와 문제 해결 과정에 흥미를 가지게 되었고  현재는 이를 백엔드 개발 역량으로 확장하고 있습니다.
 
 ---
 
@@ -33,7 +38,6 @@ I enjoy solving problems through logical thinking and improving system performan
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge)
 
 ### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge)
 ![GitHub Actions](https://img.shields.io/badge/GitHubActions-2088FF?style=for-the-badge)
 
