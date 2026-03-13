@@ -7,7 +7,7 @@
 🤖 모바일 로보틱스 대회 경험을 통해 문제 해결 능력을 키웠습니다.
 </p>
 
-<p>
+<p align="center">
 
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kingom5437@naver.com)
 [![Velog](https://img.shields.io/badge/BLOG-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@seojaeyeong-051/series)
