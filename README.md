@@ -62,6 +62,7 @@ https://github.com/jaeyoung051/MobileRobotics-Portfolio
 <details>
 <summary>🏠 ShareStay (룸 쉐어링 플랫폼)</summary>
 
+
 지도 기반으로 방을 탐색하고 예약할 수 있는 **공유 주거 플랫폼**
 
 **기간**  
@@ -106,10 +107,17 @@ Docker / Nginx
 
 ### Troubleshooting
 
-- CORS 문제 해결
-- OAuth2 로그인 흐름 처리
-- JWT 인증 로직 구현
-- API 요청 흐름 안정화
+프로젝트 진행 중 발생한 주요 이슈를 분석하고 해결했습니다.
+
+📎 Velog 정리  
+https://velog.io/@seojaeyeong-051/series/TeamProject-sharestay
+
+- 인증 구조 충돌 (Cookie vs SessionStorage) 문제 해결  
+- OAuth2 Redirect 경로 문제 해결 (로그인 후 원하는 페이지 이동 실패)  
+- React + MUI 타입 오류 해결  
+- Git merge 충돌 및 fast-forward 오류 해결  
+- Nginx + HTTP 배포 구성 오류 해결  
+- 공유 링크 생성 로직 변경 후 발생한 버그 수정  
 
 ---
 
@@ -136,9 +144,3 @@ REST API 기반 게시판 개인 프로젝트
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoung051&layout=compact&theme=tokyonight)
 
----
-
-## 📫 Contact
-
-GitHub  
-https://github.com/jaeyoung051
